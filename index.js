@@ -1,5 +1,5 @@
- function isbader(string) {
+ export function isbader(string) {
   return string === "bader";
 }
 
-module.exports = isbader;
+
